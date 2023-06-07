@@ -1,0 +1,12 @@
+Flask
+joblib
+flask_bootstrap
+flask_wtf
+flask_sqlalchemy
+flask_login
+pandas
+scikit-learn
+#keras_preprocessing
+#keras
+#tensorflow
+reportlab
